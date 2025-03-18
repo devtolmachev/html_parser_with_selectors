@@ -3,7 +3,7 @@ import requests
 
 
 def test_api():
-    url = "http://0.0.0.0:7236/parse_html"
+    url = "http://34.175.153.160.host.secureserver.net:7236/parse_html"
     
     test_html_dir = "./htmls_for_tests"
     for path in os.listdir(test_html_dir):
