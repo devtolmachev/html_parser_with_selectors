@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    restart: on-failure
+    container_name: html_parser_with_selectors_api
+    ports:
+      - 7236:3645
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    # volumes:
+    #   - ./:/app

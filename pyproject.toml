@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "html-parser-with-selectors"
+version = "0.1.0"
+description = ""
+authors = ["dev.tolmachev <dev.tolmachev@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+bs4 = "^0.0.2"
+lxml = "^5.3.1"
+fastapi = "^0.115.11"
+loguru = "^0.7.3"
+uvicorn = "^0.34.0"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

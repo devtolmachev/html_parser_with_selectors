@@ -1,0 +1,566 @@
+{
+  "title": "How It Works - Plus Medical Telemedicine Start-up Website Template",
+  "description": "",
+  "metatags": [
+    {
+      "selector": "html head meta[charset=\"utf-8\"]",
+      "content": "utf-8"
+    },
+    {
+      "selector": "html head meta:nth-of-type(2)[property=\"og:site_name\"]",
+      "content": "og:site_name"
+    },
+    {
+      "selector": "html head meta:nth-of-type(2)[content=\"\"]",
+      "content": ""
+    },
+    {
+      "selector": "html head meta:nth-of-type(3)[property=\"og:title\"]",
+      "content": "og:title"
+    },
+    {
+      "selector": "html head meta:nth-of-type(3)[content=\"How It Works - Plus Medical Telemedicine Start-up Website Template\"]",
+      "content": "How It Works - Plus Medical Telemedicine Start-up Website Template"
+    },
+    {
+      "selector": "html head meta:nth-of-type(4)[name=\"twitter:title\"]",
+      "content": "twitter:title"
+    },
+    {
+      "selector": "html head meta:nth-of-type(4)[content=\"How It Works - Plus Medical Telemedicine Start-up Website Template\"]",
+      "content": "How It Works - Plus Medical Telemedicine Start-up Website Template"
+    },
+    {
+      "selector": "html head meta:nth-of-type(5)[property=\"og:description\"]",
+      "content": "og:description"
+    },
+    {
+      "selector": "html head meta:nth-of-type(5)[content=\"\"]",
+      "content": ""
+    },
+    {
+      "selector": "html head meta:nth-of-type(6)[name=\"twitter:description\"]",
+      "content": "twitter:description"
+    },
+    {
+      "selector": "html head meta:nth-of-type(6)[content=\"\"]",
+      "content": ""
+    },
+    {
+      "selector": "html head meta:nth-of-type(7)[property=\"og:type\"]",
+      "content": "og:type"
+    },
+    {
+      "selector": "html head meta:nth-of-type(7)[content=\"article\"]",
+      "content": "article"
+    },
+    {
+      "selector": "html head meta:nth-of-type(8)[property=\"og:type\"]",
+      "content": "og:type"
+    },
+    {
+      "selector": "html head meta:nth-of-type(8)[content=\"article\"]",
+      "content": "article"
+    },
+    {
+      "selector": "html head meta:nth-of-type(9)[property=\"og:url\"]",
+      "content": "og:url"
+    },
+    {
+      "selector": "html head meta:nth-of-type(9)[content=\"https://voomiez.flex.gdn/how-it-works\"]",
+      "content": "https://voomiez.flex.gdn/how-it-works"
+    },
+    {
+      "selector": "html head meta:nth-of-type(10)[content=\"summary_large_image\"]",
+      "content": "summary_large_image"
+    },
+    {
+      "selector": "html head meta:nth-of-type(10)[name=\"twitter:card\"]",
+      "content": "twitter:card"
+    },
+    {
+      "selector": "html head meta:nth-of-type(11)[name=\"description\"]",
+      "content": "description"
+    },
+    {
+      "selector": "html head meta:nth-of-type(11)[content=\"\"]",
+      "content": ""
+    },
+    {
+      "selector": "html head meta:nth-of-type(12)[name=\"viewport\"]",
+      "content": "viewport"
+    },
+    {
+      "selector": "html head meta:nth-of-type(12)[content=\"width=device-width, initial-scale=1\"]",
+      "content": "width=device-width, initial-scale=1"
+    }
+  ],
+  "images": [
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-109d8ya div.brz-column__items.brz-css-4757gn.brz-css-1qz6i1n:nth-of-type(2) div.brz-css-k2pwen.brz-css-12qf5u5.brz-wrapper div.brz-image.brz-css-1atce1n a.brz-a picture.brz-picture.brz-d-block.brz-p-relative.brz-css-r7lsz7 img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=102&iH=70&oX=0&oY=5&cW=102&cH=59/b5bac753b33f302e4f1a91bb428091ce/[removal.ai]_143aef26-6eae-487b-813a-32a392afe5b5-screenshot-2024-02-29-13-59-26.png"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-jf0i0x div.brz-column__items.brz-css-4757gn.brz-css-48xevi:nth-of-type(2) div.brz-css-k2pwen.brz-css-pvvsh3.brz-wrapper div.brz-image.brz-css-a1sxij a.brz-a picture.brz-picture.brz-d-block.brz-p-relative.brz-css-w90wze img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=116&iH=79&oX=0&oY=3&cW=116&cH=73/b5b63d2b02f40b17c792539730c489f8/[removal.ai]_143aef26-6eae-487b-813a-32a392afe5b5-screenshot-2024-02-29-13-59-26.png"
+    },
+    {
+      "selector": "section#i03a0be02eac081681512_kfvticjjlhnbrwujosvknafamxnqsipbplki div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-fb85a div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-jdsx2i div.brz-column__items.brz-css-1b01cnu.brz-css-d7ojam:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1xm0xoi.brz-wrapper div.brz-image.brz-css-1kodku8.brz-css-1ya5rk7 picture.brz-picture.brz-d-block.brz-p-relative.brz-css-188hpkj img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=120&iH=120&oX=0&oY=0&cW=120&cH=120/4d29d732c5c2f491476ffc96de89efbe/Icon.png"
+    },
+    {
+      "selector": "section#i03a0be02eac081681512_kfvticjjlhnbrwujosvknafamxnqsipbplki div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-fb85a div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-jdsx2i div.brz-column__items.brz-css-1b01cnu.brz-css-d7ojam:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1d7anb7.brz-wrapper:nth-of-type(2) div.brz-image.brz-css-mzg8bi picture.brz-picture.brz-d-block.brz-p-relative.brz-css-1xb39dr img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=525&iH=525&oX=0&oY=0&cW=525&cH=525/e3de553d8c7e6d322625e9fc792571a4/Image-1-.png"
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1muqug9:nth-of-type(2) div.brz-css-ld6r4e.brz-css-11n4uu0.brz-wrapper div.brz-image.brz-css-1f3ezro.brz-css-15uh6se picture.brz-picture.brz-d-block.brz-p-relative.brz-css-182yde9 img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=119&iH=119&oX=0&oY=0&cW=119&cH=119/8f1780822e64d769fffd2e0982198ca8/Icon-1-.png"
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1muqug9:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1tuh0m1.brz-wrapper:nth-of-type(2) div.brz-image.brz-css-12osfyb picture.brz-picture.brz-d-block.brz-p-relative.brz-css-jxfxks img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=525&iH=525&oX=0&oY=0&cW=525&cH=525/e78dcd5ade3a510ea51b84b911cb8f37/Image-2-.png"
+    },
+    {
+      "selector": "section#i4c202d3d26aa160190eb_vukruexpjwfwxlowemqjgikvdlbcoqvnxlvg div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1agl3b5 div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-10mora9 div.brz-column__items.brz-css-1b01cnu.brz-css-smtffh:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1xv9ifa.brz-wrapper div.brz-image.brz-css-c2874p.brz-css-10cryk4 picture.brz-picture.brz-d-block.brz-p-relative.brz-css-3jx8u img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=120&iH=120&oX=0&oY=0&cW=120&cH=120/e25dc582d06b0677db85ed08df32667d/Icon-2-.png"
+    },
+    {
+      "selector": "section#i4c202d3d26aa160190eb_vukruexpjwfwxlowemqjgikvdlbcoqvnxlvg div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1agl3b5 div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-10mora9 div.brz-column__items.brz-css-1b01cnu.brz-css-smtffh:nth-of-type(2) div.brz-css-ld6r4e.brz-css-y66r04.brz-wrapper:nth-of-type(2) div.brz-image.brz-css-jsdx2 picture.brz-picture.brz-d-block.brz-p-relative.brz-css-11o8791 img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=526&iH=525&oX=0&oY=0&cW=525&cH=525/933e7440a26c4da2ea9c8c360991cc35/Image-3-.png"
+    },
+    {
+      "selector": "section#i9dc166d8cfe031af9f7e_kwvyfvwumeyvtuseuwkyoifhocfhaurxupyw div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11mds4i div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-rmd66u div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1taihl6:nth-of-type(2) div.brz-css-ld6r4e.brz-css-10x66bv.brz-wrapper div.brz-image.brz-css-8wiedq.brz-css-18kuzmx picture.brz-picture.brz-d-block.brz-p-relative.brz-css-8ezf0u img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=119&iH=119&oX=0&oY=0&cW=119&cH=119/f80d18b5098029ce12c1b282e8becc00/Icon-3-.png"
+    },
+    {
+      "selector": "section#i9dc166d8cfe031af9f7e_kwvyfvwumeyvtuseuwkyoifhocfhaurxupyw div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11mds4i div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-rmd66u div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1taihl6:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1sg51f2.brz-wrapper:nth-of-type(2) div.brz-image.brz-css-1rxfkt4 picture.brz-picture.brz-d-block.brz-p-relative.brz-css-1655t2v img.brz-img",
+      "alt": "",
+      "src": "https://cloud-1de12d.b-cdn.net/media/iW=525&iH=525&oX=0&oY=0&cW=525&cH=525/8b4a03ac8ca0ac9a45188fdae9476a60/Image-5-.jpg"
+    }
+  ],
+  "content": [
+    {
+      "selector": "html head title",
+      "content": "How It Works - Plus Medical Telemedicine Start-up Website Template"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "section#i1316896d8c9cd78a4b7e_dvozguvcwbblffzquwkkbagiucmhnshjgabt div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11vboa div.brz-container.brz-css-gk5rh7.brz-css-1lazauk:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h1.brz-text-lg-center.brz-tp-lg-heading1.brz-css-pqseW span.brz-cp-color2",
+      "content": "How it works"
+    },
+    {
+      "selector": "section#i1316896d8c9cd78a4b7e_dvozguvcwbblffzquwkkbagiucmhnshjgabt div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11vboa div.brz-container.brz-css-gk5rh7.brz-css-1lazauk:nth-of-type(2) div.brz-css-ld6r4e.brz-css-11pn08i.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-text-lg-center.brz-tp-lg-subtitle.brz-css-rerOn span.brz-cp-color7",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing\n                    elit."
+    },
+    {
+      "selector": "section#i03a0be02eac081681512_kfvticjjlhnbrwujosvknafamxnqsipbplki div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-fb85a div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-ewfkjw:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1tm71cj:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-row--inner.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-15ccz1d div.brz-column__items.brz-css-1b01cnu.brz-css-10nuucx:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-text-lg-center.brz-tp-lg-heading4.brz-css-fWQ6G span.brz-cp-color2",
+      "content": "01"
+    },
+    {
+      "selector": "section#i03a0be02eac081681512_kfvticjjlhnbrwujosvknafamxnqsipbplki div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-fb85a div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-ewfkjw:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1tm71cj:nth-of-type(2) div.brz-css-ld6r4e.brz-css-uraovu.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-tp-lg-heading3.brz-text-xs-left.brz-css-qv_Mf span.brz-cp-color2",
+      "content": "Schedule an Appointment"
+    },
+    {
+      "selector": "section#i03a0be02eac081681512_kfvticjjlhnbrwujosvknafamxnqsipbplki div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-fb85a div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-ewfkjw:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1tm71cj:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(3) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-text-xs-left.brz-tp-lg-paragraph.brz-css-hy7jP span.brz-cp-color7",
+      "content": "Once you have set up your\n                            account, you can easily schedule an appointment with your doctor or healthcare professional.\n                            You will be able to select the type of appointment you would like, the date and time of the\n                            appointment, and any additional services that may be required."
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-row--inner.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s6ic70 div.brz-column__items.brz-css-1b01cnu.brz-css-iahr1d:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-text-lg-center.brz-tp-lg-heading4.brz-css-nFWYv span.brz-cp-color2",
+      "content": "02"
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-tp-lg-heading3.brz-css-yMfF9 span.brz-cp-color2",
+      "content": "Connecting with a Doctor"
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(3) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-css-qkB1A span.brz-cp-color7",
+      "content": "Our website is designed to provide a secure\n                            connection between you and your doctor so that you can receive quality care. You will be\n                            able to view your appointment details and access any additional services that have been\n                            requested."
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1scqpat.brz-wrapper:nth-of-type(5) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1gdsnfb div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h5.brz-tp-lg-heading5.brz-css-qGu6a strong.brz-cp-color2",
+      "content": "Duis tempus, lacus\n                                quis interdum"
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1bwy9z3.brz-wrapper:nth-of-type(6) div.brz-icon-text.brz-css-1uxm9jc.brz-css-15qiacd div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h5.brz-tp-lg-heading5.brz-css-zL_y_ strong.brz-cp-color2",
+      "content": "Get euismod lectus diam\n                                ut mi."
+    },
+    {
+      "selector": "section#iacceff64bdd47392877a_ichtfdgixjlntpskfyyxrvgzxelmothyuyyi div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-4u01ve div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-9xerh1 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-eyiw58 div.brz-column__items.brz-css-1b01cnu.brz-css-gy550z:nth-of-type(2) div.brz-css-ld6r4e.brz-css-i5gpsx.brz-wrapper:nth-of-type(7) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1ygd82m div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h5.brz-tp-lg-heading5.brz-css-tEyIS strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue\n                                egestas"
+    },
+    {
+      "selector": "section#i4c202d3d26aa160190eb_vukruexpjwfwxlowemqjgikvdlbcoqvnxlvg div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1agl3b5 div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-o7d9gh:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-lhgv1f:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-row--inner.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1h1v5yf div.brz-column__items.brz-css-1b01cnu.brz-css-idd9t3:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h5.brz-tp-lg-heading5.brz-text-lg-center.brz-css-mL9oJ span.brz-cp-color3",
+      "content": "03"
+    },
+    {
+      "selector": "section#i4c202d3d26aa160190eb_vukruexpjwfwxlowemqjgikvdlbcoqvnxlvg div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1agl3b5 div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-o7d9gh:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-lhgv1f:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1yeakbm.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-tp-lg-heading3.brz-text-xs-left.brz-css-a3VC9 span.brz-cp-color2",
+      "content": "Attending Your Appointment"
+    },
+    {
+      "selector": "section#i4c202d3d26aa160190eb_vukruexpjwfwxlowemqjgikvdlbcoqvnxlvg div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1agl3b5 div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-o7d9gh:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-lhgv1f:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(3) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-text-xs-left.brz-css-rrgyq span.brz-cp-color7",
+      "content": "When it is time for your appointment, you\n                            will be able to connect with your doctor or healthcare professional securely from anywhere.\n                            Depending on the type of appointment, you may be able to see, hear, and talk to your doctor\n                            or healthcare team via video or audio chat."
+    },
+    {
+      "selector": "section#i9dc166d8cfe031af9f7e_kwvyfvwumeyvtuseuwkyoifhocfhaurxupyw div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11mds4i div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-rmd66u div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-p3rr9x div.brz-column__items.brz-css-1b01cnu.brz-css-3e379:nth-of-type(2) div.brz-row__container.brz-css-175fce3 div.brz-row.brz-row--inner.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-m8zii9 div.brz-column__items.brz-css-1b01cnu.brz-css-1cafg73:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-text-lg-center.brz-tp-lg-heading4.brz-css-kDCNx span.brz-cp-color2",
+      "content": "04"
+    },
+    {
+      "selector": "section#i9dc166d8cfe031af9f7e_kwvyfvwumeyvtuseuwkyoifhocfhaurxupyw div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11mds4i div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-rmd66u div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-p3rr9x div.brz-column__items.brz-css-1b01cnu.brz-css-3e379:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-tp-lg-heading3.brz-css-e_ccz span.brz-cp-color2",
+      "content": "After Your Appointment"
+    },
+    {
+      "selector": "section#i9dc166d8cfe031af9f7e_kwvyfvwumeyvtuseuwkyoifhocfhaurxupyw div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-11mds4i div.brz-container.brz-css-gk5rh7 div.brz-row__container.brz-css-175fce3.brz-css-rmd66u div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-p3rr9x div.brz-column__items.brz-css-1b01cnu.brz-css-3e379:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(3) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-css-d2_bO span.brz-cp-color7",
+      "content": "You should receive a follow-up message from\n                            your doctor or healthcare professional. You can also access additional information about\n                            your appointment, such as any follow-up instructions or medications that have been\n                            prescribed, in your dashboard. You can also access your medical records, lab results, and\n                            other information."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h2.brz-text-lg-center.brz-tp-lg-heading2.brz-css-dHqvP span.brz-cp-color2",
+      "content": "Pricing Plus\n                    Medical"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-css-ld6r4e.brz-css-18tz1wb.brz-wrapper:nth-of-type(3) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-subtitle.brz-text-lg-center.brz-css-eqOIm span.brz-cp-color7",
+      "content": "Lorem ipsum dolor sit amet, consectetur\n                    adipiscing elit. Vivamus volutpat ipsum vel augue egestas, eu luctus lacus congue."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-css-18hnk6z.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-tp-lg-heading4.brz-text-lg-center.brz-css-yHVHb span.brz-cp-color7",
+      "content": "Starter Plan"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-css-tdob7c.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-tp-lg-heading3.brz-text-lg-center.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-40.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_3.brz-css-wSI8v span.brz-cp-color2",
+      "content": "$5.00"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-css-vvkl2r.brz-wrapper:nth-of-type(4) div.brz-icon-text.brz-css-1uxm9jc.brz-css-17hqjky div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-14.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_5.brz-tp-lg-paragraph.brz-css-t5gK4 strong.brz-cp-color2",
+      "content": "Duis tempus, lacus quis interdum"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-css-3vyjpt.brz-wrapper:nth-of-type(5) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1sovuqm div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-nNyx4 strong.brz-cp-color2",
+      "content": "Get\n                                euismod lectus diam ut mi."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-css-10fi583.brz-wrapper:nth-of-type(6) div.brz-icon-text.brz-css-1uxm9jc.brz-css-11qtn6g div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-e1w26 strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1jrsi9q.brz-animated.brz-css-qw3hcz.brz-css-1it9081 div.brz-column__items.brz-css-1b01cnu.brz-css-12dv3zg:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(7) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1lp5fkk div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-qjj9O strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-17vi0nv.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-text-lg-center.brz-tp-lg-heading4.brz-css-s1J18 span.brz-cp-color7",
+      "content": "Premium\n                            Plan"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-19nrt3s.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-text-lg-center.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-40.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_3.brz-tp-lg-heading3.brz-css-dy6SM span.brz-cp-color2",
+      "content": "$15.00"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1i4hx3z.brz-wrapper:nth-of-type(4) div.brz-icon-text.brz-css-1uxm9jc.brz-css-9kuyk7 div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-14.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_5.brz-tp-lg-paragraph.brz-css-xkhdJ strong.brz-cp-color2",
+      "content": "Duis tempus, lacus quis interdum"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1085rjq.brz-wrapper:nth-of-type(5) div.brz-icon-text.brz-css-1uxm9jc.brz-css-zkxt61 div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-dB4Kg strong.brz-cp-color2",
+      "content": "Get\n                                euismod lectus diam ut mi."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-10n87gl.brz-wrapper:nth-of-type(6) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1t75zpv div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-sgbkG strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1vikfq7.brz-wrapper:nth-of-type(7) div.brz-icon-text.brz-css-1uxm9jc.brz-css-18de12o div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-x6sWB strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1tihl3h.brz-animated.brz-css-2g0z1n.brz-css-13e62yi:nth-of-type(2) div.brz-column__items.brz-css-1b01cnu.brz-css-1x1qwdu:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(8) div.brz-icon-text.brz-css-1uxm9jc.brz-css-1g9qqfm div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-14.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_5.brz-tp-lg-paragraph.brz-css-nAtdO strong.brz-cp-color2",
+      "content": "Get\n                                euismod lectus diam ut mi."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1gsuuit.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h4.brz-text-lg-center.brz-tp-lg-heading4.brz-css-lTtVi span.brz-cp-color7",
+      "content": "Basic\n                            Plan"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-css-4ybcuf.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div h3.brz-text-lg-center.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-40.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_3.brz-tp-lg-heading3.brz-css-d8vg7 span.brz-cp-color2",
+      "content": "$12.00"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-css-13vc87.brz-wrapper:nth-of-type(4) div.brz-icon-text.brz-css-1uxm9jc.brz-css-mike7y div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-ff-noto_sans.brz-ft-google.brz-fs-lg-14.brz-fss-lg-px.brz-fw-lg-700.brz-ls-lg-0.brz-lh-lg-1_5.brz-tp-lg-paragraph.brz-css-z3x5m strong.brz-cp-color2",
+      "content": "Duis tempus, lacus quis interdum"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-css-1ido1ij.brz-wrapper:nth-of-type(5) div.brz-icon-text.brz-css-1uxm9jc.brz-css-10pfdod div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-vd8wJ strong.brz-cp-color2",
+      "content": "Get\n                                euismod lectus diam ut mi."
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-css-169cvke.brz-wrapper:nth-of-type(6) div.brz-icon-text.brz-css-1uxm9jc.brz-css-m2t8rc div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-iQ6Ta strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d1a497e8572c820643a_uzjtfasdnndxcitjgfzftuwcrlvgchbseuux div.brz-section__content.brz-section--boxed.brz-css-5mhtzg.brz-css-1t025iu div.brz-container.brz-css-gk5rh7:nth-of-type(2) div.brz-row__container.brz-css-175fce3:nth-of-type(5) div.brz-row.brz-css-4637ln.brz-css-4oeds4:nth-of-type(2) div.brz-columns.brz-css-1kzp1ey.brz-css-1s7u1fv.brz-animated.brz-css-11o4bzy.brz-css-1d23yo1:nth-of-type(3) div.brz-column__items.brz-css-1b01cnu.brz-css-17bal2t:nth-of-type(2) div.brz-css-ld6r4e.brz-wrapper:nth-of-type(7) div.brz-icon-text.brz-css-1uxm9jc.brz-css-7nifq2 div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-110th1l div p.brz-tp-lg-paragraph.brz-lh-lg-1_5.brz-ls-lg-0.brz-fw-lg-700.brz-fss-lg-px.brz-fs-lg-14.brz-ft-google.brz-ff-noto_sans.brz-css-zVEUo strong.brz-cp-color2",
+      "content": "Bolutpat ipsum vel augue egestas"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-wejcqz div.brz-column__items.brz-css-1auh8r8.brz-css-1wy9r81:nth-of-type(2) div.brz-css-127vmpl.brz-css-l5lzlz.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h2.brz-text-lg-center.brz-tp-lg-heading2.brz-css-wzbK_ span.brz-cp-color2",
+      "content": "Plus medical news in your\n                            inbox."
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-wejcqz div.brz-column__items.brz-css-1auh8r8.brz-css-1wy9r81:nth-of-type(2) div.brz-css-127vmpl.brz-css-1nya3jf.brz-wrapper:nth-of-type(2) div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div p.brz-text-lg-center.brz-tp-lg-subtitle.brz-css-pNSk4 span.brz-cp-color7",
+      "content": "Stay up to\n                            date with news from Plus medical"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb.brz-css-1dgyrmq:nth-of-type(7) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-dxpx9l div.brz-column__items.brz-css-1auh8r8:nth-of-type(2) div.brz-css-127vmpl.brz-css-1efw80i.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h6.brz-tp-lg-heading6.brz-text-xs-center.brz-css-z0JKj span.brz-cp-color7",
+      "content": "\u00a9"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb.brz-css-1dgyrmq:nth-of-type(7) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-dxpx9l div.brz-column__items.brz-css-1auh8r8:nth-of-type(2) div.brz-css-127vmpl.brz-css-1efw80i.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h6.brz-tp-lg-heading6.brz-text-xs-center.brz-css-z0JKj span.brz-cp-color7:nth-of-type(2)",
+      "content": "Telemedicine"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb.brz-css-1dgyrmq:nth-of-type(7) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-dxpx9l div.brz-column__items.brz-css-1auh8r8:nth-of-type(2) div.brz-css-127vmpl.brz-css-1efw80i.brz-wrapper div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h6.brz-tp-lg-heading6.brz-text-xs-center.brz-css-z0JKj span.brz-cp-color7:nth-of-type(3)",
+      "content": "Website Template"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb.brz-css-1dgyrmq:nth-of-type(7) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-i2vt1r:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1u8y4r:nth-of-type(2) div.brz-css-127vmpl.brz-css-jo42lm.brz-wrapper div.brz-icon-text.brz-css-1q9zidk.brz-css-436l2b div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h6.brz-tp-lg-heading6.brz-css-w5jDT span.brz-cp-color2",
+      "content": "info@plusmedical.com"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb.brz-css-1dgyrmq:nth-of-type(7) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1etc2v2:nth-of-type(3) div.brz-column__items.brz-css-1auh8r8.brz-css-w8a5rg:nth-of-type(2) div.brz-css-127vmpl.brz-css-on7qob.brz-wrapper div.brz-icon-text.brz-css-1q9zidk.brz-css-1ooxqk0 div.brz-text-btn div.brz-rich-text.brz-rich-text__custom.brz-css-1oq1jlk div h6.brz-tp-lg-heading6.brz-css-yqHUv span.brz-cp-color2",
+      "content": "1235 123 12312"
+    }
+  ],
+  "internal_links": [
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-c8ygwk:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-3bfzx6:nth-of-type(2) div.brz-css-k2pwen.brz-css-3t6pbr.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-rsccj8 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-949czc ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "nav#yohjauefoafzotjlvawtpzbghulskzkoebbu_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-f8fo47:nth-of-type(2) div.brz-column__items.brz-css-4757gn.brz-css-ts9v45:nth-of-type(2) div.brz-css-k2pwen.brz-css-21kgwe.brz-wrapper div.brz-menu__container.brz-css-93rzld.brz-css-1rysv50 nav.brz-menu.brz-menu__preview.brz-css-1eii57.brz-css-frjxvy ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "nav#irtbpchibbknmrwtogkjbzyuxqjdmoaxhfva_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "section#i3d2678acee94364f9d52_a2c84f8ec5a348baefe7f08026e6aefe div.brz-section__content.brz-section--boxed.brz-css-1o48igw.brz-css-91wtbb div.brz-container.brz-css-on26aa:nth-of-type(2) div.brz-row__container.brz-css-cfstqb:nth-of-type(3) div.brz-row.brz-css-1wiko1x.brz-css-1bio84:nth-of-type(2) div.brz-columns.brz-css-15lw9yj.brz-css-1s001q9:nth-of-type(2) div.brz-column__items.brz-css-1auh8r8.brz-css-1bcimsq:nth-of-type(2) div.brz-css-127vmpl.brz-css-n9hx9v.brz-wrapper div.brz-menu__container.brz-css-zqdxog.brz-css-1n5scgt nav.brz-menu.brz-menu__preview.brz-css-14xejbd.brz-css-1xtvpwg ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item.brz-menu__item--current a.brz-a[href=\"/how-it-works\"]",
+      "content": "How it works",
+      "href": "/how-it-works"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"/services\"]",
+      "content": "Services",
+      "href": "/services"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"/pricing\"]",
+      "content": "Pricing",
+      "href": "/pricing"
+    },
+    {
+      "selector": "nav#dmkhfzkupiyeacqvjvybyshtwgpiunbfjikt_if94ba0e4d0efa9cad87c ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"/contact\"]",
+      "content": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "external_links": [
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__header--animated.brz-css-1bdo302 div.brz-section__header-sticky-item.brz-css-5supw7.brz-css-1x1klad div.brz-container.brz-css-1nfir63:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1e1sbzh:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-109d8ya div.brz-column__items.brz-css-4757gn.brz-css-1qz6i1n:nth-of-type(2) div.brz-css-k2pwen.brz-css-12qf5u5.brz-wrapper div.brz-image.brz-css-1atce1n a.brz-a[href=\"https://voomiez.flex.gdn\"]",
+      "content": "\n\n\n\n\n",
+      "href": "https://voomiez.flex.gdn"
+    },
+    {
+      "selector": "section#i3c2d8e8d9bfeee510b17_fc2ea6994ea3ff4caa8383e94937a5c1 div.brz-section__menu-item.brz-css-12n37fy.brz-css-zwykz0:nth-of-type(2) div.brz-container.brz-css-if9ttr:nth-of-type(2) div.brz-row__container.brz-css-1ycf9v8 div.brz-row.brz-css-10r8rz0.brz-css-1rnxnqo:nth-of-type(2) div.brz-columns.brz-css-115e68u.brz-css-jf0i0x div.brz-column__items.brz-css-4757gn.brz-css-48xevi:nth-of-type(2) div.brz-css-k2pwen.brz-css-pvvsh3.brz-wrapper div.brz-image.brz-css-a1sxij a.brz-a[href=\"https://voomiez.flex.gdn\"]",
+      "content": "\n\n\n\n\n",
+      "href": "https://voomiez.flex.gdn"
+    }
+  ]
+}
