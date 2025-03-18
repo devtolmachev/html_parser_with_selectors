@@ -22,14 +22,15 @@ class HtmlReqBody(BaseModel):
     "/parse_html", 
     description="In this endpoint you should but only html content of the interested page"
 )
-async def parse_html(request: Request, req_body: HtmlReqBody):
+async def parse_html(request: Request):
     if request.headers.get('auth') != get_token():
         return {"ok": False, "message": "authentification required"}
     
     message = "error when parsing html. give me a valid html string"
     loop = asyncio.get_running_loop()
     try:
-        html = req_body.html
+        req_body = (await request.body()).decode('utf-8')
+        html = req_body
         
         parser = Parser(html)
         message = "parser error. html is valid"

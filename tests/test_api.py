@@ -1,4 +1,5 @@
 import os
+import orjson
 import requests
 
 
@@ -14,18 +15,19 @@ def test_api():
             continue
         
         with open(os.path.join(test_html_dir, path)) as f:
-            data = {"html": f.read()}
+            data = f.read()
             
         response = requests.post(
             url, 
-            json=data,
+            data=data,
             headers={"Auth": os.environ["token"]}
         )
         json = response.json()
+        with open('nocode-gdn-output-srv.json', 'w') as f:
+            f.write(orjson.dumps(json).decode('utf-8'))
         assert response.status_code == 200 and json["ok"] is True
         
     print(f"sucessfully tested all htmls in dir {test_html_dir}")
-
 
 if __name__ == "__main__":
     test_api()

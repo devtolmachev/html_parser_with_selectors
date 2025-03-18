@@ -193,8 +193,11 @@ class Parser:
                     continue
                 selector = self.generate_unique_selector(tag)
                 text = tag.get_text(strip=True)
-                if self._soup.select_one(selector).get_text(strip=True) != text:
+                
+                selected_el = self._soup.select_one(selector)
+                if not selected_el or selected_el.get_text(strip=True) != text:
                     continue
+                
                 tag_data = {
                     "selector": selector,
                     "content": text
