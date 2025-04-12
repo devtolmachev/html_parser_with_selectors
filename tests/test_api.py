@@ -9,9 +9,9 @@ def test_api():
     
     test_html_dir = "./htmls_for_tests"
     for path in os.listdir(test_html_dir):
-        if path[0].islower():
-            continue
         if not path.endswith(".html"):
+            continue
+        if not path.count('htmltest'):
             continue
         
         with open(os.path.join(test_html_dir, path)) as f:
@@ -23,8 +23,8 @@ def test_api():
             headers={"Auth": os.environ["token"]}
         )
         json = response.json()
-        with open('nocode-gdn-output-srv.json', 'w') as f:
-            f.write(orjson.dumps(json).decode('utf-8'))
+        # with open('nocode-gdn-output-srv.json', 'w') as f:
+        #     f.write(orjson.dumps(json).decode('utf-8'))
         assert response.status_code == 200 and json["ok"] is True
         
     print(f"sucessfully tested all htmls in dir {test_html_dir}")

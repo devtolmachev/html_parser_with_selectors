@@ -85,18 +85,18 @@ class Parser:
             
             selector = element.name
             if selector == "html":
-                path.append(selector)
+                path.append(re.sub(r'(\\(")*)', '', selector))
                 break
             
             if element.name in ["source"]:
                 element = element.parent
                 continue
 
-            # Если у элемента есть id, используем его как уникальный селектор
-            if element.get('id'):
-                selector += f"#{element['id']}"
-                path.append(selector)
-                break
+            # # Если у элемента есть id, используем его как уникальный селектор
+            # if element.get('id'):
+            #     selector += f"#{element['id']}"
+            #     path.append(re.sub(r'(\\(")*)', '', selector))
+            #     break
 
             # Если у элемента есть класс, добавляем его
             elif element.get('class'):
@@ -106,7 +106,7 @@ class Parser:
             if siblings:
                 selector += f":nth-of-type({len(siblings) + 1})"
 
-            path.append(selector)
+            path.append(re.sub(r'(\\(")*)', '', selector))
             element = element.parent
 
         # Объединяем путь к элементу, начиная от корневого к узлу
@@ -189,20 +189,23 @@ class Parser:
         for tag in contents:
 
             try:
-                if not tag.text or tag.text == "\n":
+                if not tag.text or tag.text in ["\n", "\\n"]:
                     continue
                 selector = self.generate_unique_selector(tag)
-                text = tag.get_text(strip=True)
+                text = re.sub(r'\\*\n', '', tag.get_text(strip=True)).replace('\\n', '')
                 
-                selected_el = self._soup.select_one(selector)
-                if not selected_el or selected_el.get_text(strip=True) != text:
+                # selected_el = self._soup.select_one(selector)
+                # if not selected_el:
+                #     continue
+                if not text.strip():
                     continue
                 
                 tag_data = {
                     "selector": selector,
                     "content": text
                 }
-                results.append(tag_data)
+                if text not in [r["content"] for r in results]:
+                    results.append(tag_data)
             except Exception as e:
                 logger.exception(e)
                 continue

@@ -1,0 +1,610 @@
+{
+  "title": "Services - Plus Medical Telemedicine Start-up Website Template",
+  "description": null,
+  "metatags": [
+    {
+      "selector": "html head meta:nth-of-type(2)[property=\"\\\"og:site_name\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(2)[content=\"\\\"\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(3)[property=\"\\\"og:type\\\"\"]",
+      "content": "\\\"article\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(3)[content=\"\\\"article\\\"\"]",
+      "content": "\\\"article\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(4)[property=\"\\\"og:url\\\"\"]",
+      "content": "\\\"https://voomiez.flex.gdn/services\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(4)[content=\"\\\"https://voomiez.flex.gdn/services\\\"\"]",
+      "content": "\\\"https://voomiez.flex.gdn/services\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(5)[content=\"\\\"summary_large_image\\\"\"]",
+      "content": "\\\"summary_large_image\\\""
+    },
+    {
+      "selector": "html head meta:nth-of-type(5)[name=\"\\\"twitter:card\\\"\"]",
+      "content": "\\\"summary_large_image\\\""
+    },
+    {
+      "selector": "html body p meta[property=\"\\\"og:title\\\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[content=\"\\\"Services\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[plus=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[medical=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[telemedicine=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[start-up=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[website=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta[template=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[name=\"\\\"twitter:title\\\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[content=\"\\\"Services\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[plus=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[medical=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[telemedicine=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[start-up=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[website=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(2)[template=\"\"]",
+      "content": "\\\"Services"
+    },
+    {
+      "selector": "html body p meta:nth-of-type(3)[property=\"\\\"og:description\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body p meta:nth-of-type(3)[content=\"\\\"\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body p meta:nth-of-type(4)[name=\"\\\"twitter:description\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body p meta:nth-of-type(4)[content=\"\\\"\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body meta[name=\"\\\"description\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body meta[content=\"\\\"\\\"\"]",
+      "content": "\\\"\\\""
+    },
+    {
+      "selector": "html body meta:nth-of-type(2)[name=\"\\\"viewport\\\"\"]",
+      "content": "\\\"width=device-width,"
+    },
+    {
+      "selector": "html body meta:nth-of-type(2)[content=\"\\\"width=device-width,\"]",
+      "content": "\\\"width=device-width,"
+    },
+    {
+      "selector": "html body meta:nth-of-type(2)[initial-scale=\"1\\\"\"]",
+      "content": "\\\"width=device-width,"
+    }
+  ],
+  "images": [
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-image a.brz-a picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=102&iH=70&oX=0&oY=5&cW=102&cH=59/b5bac753b33f302e4f1a91bb428091ce/[removal.ai]_143aef26-6eae-487b-813a-32a392afe5b5-screenshot-2024-02-29-13-59-26.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-image a.brz-a picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=116&iH=79&oX=0&oY=3&cW=116&cH=73/b5b63d2b02f40b17c792539730c489f8/[removal.ai]_143aef26-6eae-487b-813a-32a392afe5b5-screenshot-2024-02-29-13-59-26.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/a25c8f4ef2c9eb8dbdb672125ca47678/General.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/dbcbbe80b91f7d66b2d631bcae3f47b1/Video.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/7d5bce6a80451fcfcbb14a6ca2bb4af4/Call.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/5b38e6a51a1682d9a6390a13e78b5510/Online.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/21261bfefbab4c9ac564043c4f8a6d5b/Ambulance.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/c133dc2c3b46cec29398be8291dc4508/Medical.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/506ef32aec4abac0b88a3c80f0935aad/Herbal.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=80&iH=80&oX=0&oY=0&cW=80&cH=80/43bad5c10f92ff27e4481ff357fd5854/Medicine.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/original/3f5b519d18ca560967a5d912cab8b6fe/Ellipse-3.png\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-image picture.brz-picture img.brz-img",
+      "alt": "\\\"\\\"",
+      "src": "\\\"https://cloud-1de12d.b-cdn.net/media/iW=86&iH=32&oX=0&oY=0&cW=86&cH=32/d79e49222ab5d3adccb12d8a435e57d4/Trustpilot.png\\\""
+    }
+  ],
+  "content": [
+    {
+      "selector": "html body title",
+      "content": "Services - Plus Medical Telemedicine Start-up Website Template"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item a.brz-a span.brz-span",
+      "content": "How it works"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Services"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a span.brz-span",
+      "content": "Pricing"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a span.brz-span",
+      "content": "Contact"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a span.brz-span",
+      "content": "Get Started"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a span.brz-span",
+      "content": "Start For Free"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(2) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div h1.brz-text-lg-center",
+      "content": "The future of telemedicine is here."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(2) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color7",
+      "content": "No more long wait times or expensive in-person visits."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(2) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(5) div.brz-d-xs-flex div.brz-wrapper-clone__item:nth-of-type(2) a.brz-a span.brz-span",
+      "content": "Schedule a Call"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "General Medical"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-paragraph span.brz-cp-color7",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a span.brz-span",
+      "content": "Book a Visit"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Video Consultation"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Call Consultation"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Online Appointment"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Ambulance Service"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Medical Checkup"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Herbal Consultation"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div h5.brz-tp-lg-heading5 strong.brz-cp-color2",
+      "content": "Medicine Consultation"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div h2.brz-tp-lg-heading2 span.brz-cp-color2",
+      "content": "FAQ"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(2) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color7",
+      "content": "We understand that you may have some questions about telemedicine and how it works. We have compiled a list of frequently asked questions to help you better understand the process."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color7",
+      "content": "If you have any additional questions or concerns, please feel free to"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color3:nth-of-type(2)",
+      "content": "contact us"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color7:nth-of-type(3)",
+      "content": "and we will be happy to answer them."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "How do I get started with telemedicine?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item div.brz-accordion__content:nth-of-type(2) div.brz-accordion__item-content div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-paragraph span.brz-cp-color7",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(2) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "How do I schedule an appointment?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(3) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "How do I connect with my doctor or healthcare professional?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(4) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "What should I expect during my telemedicine appointment?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(5) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "How do I access my medical records and lab results?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(6) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "What should I do after my appointment?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(4) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-accordion div.brz-accordion__item:nth-of-type(7) div.brz-accordion__nav h6.brz-accordion__nav-title",
+      "content": "Is telemedicine secure?"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(5) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div h1.brz-tp-lg-heading1 span.brz-cp-color2",
+      "content": "Get 50% off"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(5) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div h1.brz-tp-lg-heading1:nth-of-type(2) span.brz-cp-color2",
+      "content": "for a new member"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(5) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4:nth-of-type(3) div.brz-rich-text div p.brz-tp-lg-subtitle span.brz-cp-color2",
+      "content": "Set an appointmet today and you will get the discount"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div h2.brz-tp-lg-heading2 span.brz-cp-color2",
+      "content": "What our members say"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-abovetitle span.brz-cp-color7",
+      "content": "“I highly recommend"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-abovetitle strong.brz-cp-color3",
+      "content": "Plus Medical"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-abovetitle span.brz-cp-color7:nth-of-type(2)",
+      "content": "'s telemedicine services to anyone who needs quick and convenient access to medical care”"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-starrating span.brz-starrating-text",
+      "content": "Excellent"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-button strong.brz-cp-color2",
+      "content": "436"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(6) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-1i07rk4 div.brz-rich-text div p.brz-tp-lg-button span.brz-cp-color2",
+      "content": "reviews on"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-rich-text div h2.brz-text-lg-center span.brz-cp-color2",
+      "content": "Plus medical news in your inbox."
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl:nth-of-type(2) div.brz-rich-text div p.brz-text-lg-center span.brz-cp-color7",
+      "content": "Stay up to date with news from Plus medical"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl:nth-of-type(4) div.brz-forms2 form.brz-form div.brz-forms2:nth-of-type(2) button.brz-btn span.brz-span",
+      "content": "Subscribe"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(7) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-rich-text div h6.brz-tp-lg-heading6 span.brz-cp-color7",
+      "content": "©"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(7) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-rich-text div h6.brz-tp-lg-heading6 span.brz-cp-color7:nth-of-type(2)",
+      "content": "Telemedicine"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(7) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-rich-text div h6.brz-tp-lg-heading6 span.brz-cp-color7:nth-of-type(3)",
+      "content": "Website Template"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(7) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-icon-text div.brz-text-btn:nth-of-type(2) div.brz-rich-text div h6.brz-tp-lg-heading6 span.brz-cp-color2",
+      "content": "info@plusmedical.com"
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(7) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-icon-text div.brz-text-btn:nth-of-type(2) div.brz-rich-text div h6.brz-tp-lg-heading6 span.brz-cp-color2",
+      "content": "1235 123 12312"
+    }
+  ],
+  "internal_links": [
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Get Started",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Start For Free",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(2) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(5) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Get Started",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(2) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(5) div.brz-d-xs-flex div.brz-wrapper-clone__item:nth-of-type(2) a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Book a Visit",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Book a Visit",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Book a Visit",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(3) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(3) div.brz-section__content div.brz-container div.brz-row__container:nth-of-type(2) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(4) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(4) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Book a Visit",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(5) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(5) div.brz-d-xs-flex div.brz-wrapper-clone__item a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Get Started",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(5) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-wrapper-clone:nth-of-type(5) div.brz-d-xs-flex div.brz-wrapper-clone__item:nth-of-type(2) a.brz-a[href=\"\\\"\\\"\"]",
+      "content": "Schedule a Call",
+      "href": "\\\"\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item a.brz-a[href=\"\\\"/how-it-works\\\"\"]",
+      "content": "How it works",
+      "href": "\\\"/how-it-works\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(2) a.brz-a[href=\"\\\"/services\\\"\"]",
+      "content": "Services",
+      "href": "\\\"/services\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(3) a.brz-a[href=\"\\\"/pricing\\\"\"]",
+      "content": "Pricing",
+      "href": "\\\"/pricing\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section:nth-of-type(7) div.brz-section__content div.brz-container:nth-of-type(2) div.brz-row__container:nth-of-type(3) div.brz-row:nth-of-type(2) div.brz-columns:nth-of-type(2) div.brz-column__items:nth-of-type(2) div.brz-css-127vmpl div.brz-menu__container nav.brz-menu:nth-of-type(2) ul.brz-menu__ul li.brz-menu__item:nth-of-type(4) a.brz-a[href=\"\\\"/contact\\\"\"]",
+      "content": "Contact",
+      "href": "\\\"/contact\\\""
+    }
+  ],
+  "external_links": [
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__header--animated div.brz-section__header-sticky-item div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-image a.brz-a[href=\"\\\"https://voomiez.flex.gdn\\\"\"]",
+      "content": "",
+      "href": "\\\"https://voomiez.flex.gdn\\\""
+    },
+    {
+      "selector": "html body div.brz-root__container section.brz-section div.brz-section__menu-item:nth-of-type(2) div.brz-container:nth-of-type(2) div.brz-row__container div.brz-row:nth-of-type(2) div.brz-columns div.brz-column__items:nth-of-type(2) div.brz-css-k2pwen div.brz-image a.brz-a[href=\"\\\"https://voomiez.flex.gdn\\\"\"]",
+      "content": "",
+      "href": "\\\"https://voomiez.flex.gdn\\\""
+    }
+  ]
+}
