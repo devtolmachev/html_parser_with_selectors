@@ -213,6 +213,54 @@ class Parser:
         
         return results
     
+    def _parse_html_tree(self):
+        contents: bs4.ResultSet[bs4.Tag] = self._soup.find_all(string=re.compile(".*"))
+        
+        def element_to_dict(element: bs4.Tag, _parrent: bs4.Tag = None):
+            nonlocal contents
+            """
+            Рекурсивно преобразует элемент BeautifulSoup в словарь.
+            Args:
+                element: Объект BeautifulSoup (тег или текст).
+            Returns:
+                dict or None: Словарь с данными элемента или None для неподдерживаемых узлов.
+            """
+            # Игнорируем комментарии и NavigableString, если это не текст
+            if not hasattr(element, 'name') and not isinstance(element, str):
+                return None
+
+            # Обработка текстовых узлов
+            if isinstance(element, str):
+                text = element.strip()
+                if text:
+                    selector = self.generate_unique_selector(_parrent)
+                    return {"type": "text", "value": text, "selector": selector}
+                return None
+
+            # Обработка тегов
+            node = {"tag": element.name}
+
+            # Дочерние узлы
+            children = []
+            for child in element.children:
+                child_dict = element_to_dict(child, child.parent)
+                if child_dict:
+                    children.append(child_dict)
+
+            # Оптимизация: если есть только один текстовый дочерний узел, используем поле text
+            if len(children) == 1 and children[0].get("type") == "text":
+                node["text"] = children[0]["value"]
+                node["selector"] = self.generate_unique_selector(element)
+            elif children:
+                node["children"] = children
+                
+            if not node.get("text") and not node.get("children"):
+                return None
+            return node
+            
+        tree = element_to_dict(self._soup.find('body'))
+        return tree
+    
     def parse_all(self):
         obj = {}
         try:
@@ -240,7 +288,9 @@ class Parser:
             logger.exception(e)
         
         try:
-            obj["content"] = self._parse_contents()
+            # update 05.05.2025
+            # obj["content"] = self._parse_contents()
+            obj["content"] = self._parse_html_tree()
         except Exception as e:
             obj["content"] = []
             logger.exception(e)
@@ -264,7 +314,7 @@ def parse(html: str) -> dict[str, Any]:
 async def main():
     from pprint import pprint
     import json
-    with open("test.html") as f:
+    with open("htmls_for_tests/test33.html") as f:
         html = f.read()
     result = parse(html)
     with open("result1.json", 'w') as f:
